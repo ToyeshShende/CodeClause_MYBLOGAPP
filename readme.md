@@ -16,12 +16,20 @@ nodejs
 expressjs
 
 for backend support -mongodb atlas
+
 features:
-login register with bcrypt (password encryption)
-author name on post
-upload time and date
-quick summary
-deatiled info view
-edit post feature 
+1.login register with bcrypt (password encryption)
+2.author name on post
+3.upload time and date
+4.quick summary
+5.deatiled info view
+6.edit post feature 
+
+
+![screen-capture (2) mp4 - VLC media player 09-06-2023 12_17_43](https://github.com/ToyeshShende/CodeClause_MYBLOGAPP/assets/119116915/276953d8-7cf8-41ee-b67b-6c051183429e)
+![Screenshot 09-06-2023 12_17_28](https://github.com/ToyeshShende/CodeClause_MYBLOGAPP/assets/119116915/a5bf266f-a5d9-455f-8113-40425da5a75f)
+
+
+
 
 
